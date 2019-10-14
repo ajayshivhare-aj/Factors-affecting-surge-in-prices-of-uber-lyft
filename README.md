@@ -1,4 +1,4 @@
-# Factors-driving-demand and surge-price-for-Uber-Lyft
+# Predicting price of cabs- Uber & Lyft based on weather parameters of that location.
 Analyzing the factors affecting or driving the demand of Uber vs Lyft. We are also planning to analyze the pattern of prize surge due to extreme weather conditions in Uber Vs Lyft. Source of the data: https://www.kaggle.com/uber-lyft-cab-prices
 
 # Problem Statement
